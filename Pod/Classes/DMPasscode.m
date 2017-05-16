@@ -39,7 +39,7 @@ NSString * const DMUnlockErrorDomain = @"com.dmpasscode.error.unlock";
 + (void)initialize {
     [super initialize];
     instance = [[DMPasscode alloc] init];
-    bundle = [DMPasscode bundleWithName:@"DMPasscode.bundle"];
+    bundle = [NSBundle mainBundle];
 }
 
 - (instancetype)init {
