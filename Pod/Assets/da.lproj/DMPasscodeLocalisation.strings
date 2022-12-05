@@ -1,0 +1,15 @@
+"dmpasscode_1_left" = "1 forsøg over";
+
+"dmpasscode_enter_new_code" = "vælg en kode, som du vil logge ind fra nu";
+
+"dmpasscode_enter_to_unlock" = "indtast for at låse op";
+
+"dmpasscode_n_left" = "% jeg pogingen over";
+
+"dmpasscode_not_match" = "de koder kommer ikke overens, prøv igen";
+
+"dmpasscode_okay" = "ok";
+
+"dmpasscode_repeat" = "gentag kode";
+
+"dmpasscode_touchid_reason" = "brug fingerprint for adgang";

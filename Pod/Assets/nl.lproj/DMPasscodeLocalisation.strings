@@ -1,0 +1,23 @@
+/* No comment provided by engineer. */
+"dmpasscode_1_left" = "1 poging over";
+
+/* No comment provided by engineer. */
+"dmpasscode_enter_new_code" = "kies een code waarmee je vanaf nu wil inloggen";
+
+/* No comment provided by engineer. */
+"dmpasscode_enter_to_unlock" = "ontgrendelen met code";
+
+/* No comment provided by engineer. */
+"dmpasscode_n_left" = "%i pogingen over";
+
+/* No comment provided by engineer. */
+"dmpasscode_not_match" = "de codes komen niet overeen, probeer nogmaals";
+
+/* No comment provided by engineer. */
+"dmpasscode_okay" = "ok";
+
+/* No comment provided by engineer. */
+"dmpasscode_repeat" = "herhaal code";
+
+/* No comment provided by engineer. */
+"dmpasscode_touchid_reason" = "gebruik vingerafdruk voor toegang";

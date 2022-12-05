@@ -1,8 +1,23 @@
-"dmpasscode_enter_new_code" = "Enter new code";
-"dmpasscode_enter_to_unlock" = "Enter code to unlock";
-"dmpasscode_repeat" = "Repeat code";
-"dmpasscode_not_match" = "Your codes did not match.\nPlease try again.";
-"dmpasscode_okay" = "Okay";
-"dmpasscode_n_left" = "%i attempts left";
+/* No comment provided by engineer. */
 "dmpasscode_1_left" = "1 attempt left";
-"dmpasscode_touchid_reason" = "Authenticate to access locked feature.";
+
+/* No comment provided by engineer. */
+"dmpasscode_enter_new_code" = "enter passcode to log in as of now";
+
+/* No comment provided by engineer. */
+"dmpasscode_enter_to_unlock" = "unlock with passcode";
+
+/* No comment provided by engineer. */
+"dmpasscode_n_left" = "%i attempts left";
+
+/* No comment provided by engineer. */
+"dmpasscode_not_match" = "passcodes did not match, try again";
+
+/* No comment provided by engineer. */
+"dmpasscode_okay" = "okay";
+
+/* No comment provided by engineer. */
+"dmpasscode_repeat" = "repeat passcode";
+
+/* No comment provided by engineer. */
+"dmpasscode_touchid_reason" = "use fingerprint to access";
